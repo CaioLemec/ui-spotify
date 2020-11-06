@@ -13,7 +13,7 @@
 
 <p align="center">
   <img 
-  alt="Happy" 
+  alt="Spotify-Homepage" 
   src="./img/mockup.png" 
   width="65%">
 </p>
